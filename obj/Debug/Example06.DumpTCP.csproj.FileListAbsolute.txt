@@ -1,0 +1,13 @@
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\bin\Debug\Example6.DumpTCP.exe.config
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\bin\Debug\Example6.DumpTCP.exe
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\bin\Debug\Example6.DumpTCP.pdb
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\bin\Debug\PacketDotNet.dll
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\bin\Debug\SharpPcap.dll
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\bin\Debug\SharpPcap.pdb
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\bin\Debug\SharpPcap.xml
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\bin\Debug\PacketDotNet.xml
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\obj\Debug\Example06.DumpTCP.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\obj\Debug\Example06.DumpTCP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\obj\Debug\Example06.DumpTCP.csproj.CopyComplete
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\obj\Debug\Example6.DumpTCP.exe
+C:\Users\Administrator\Downloads\SharpPcap-4.2.0.src\Examples\Example6.DumpTCP\obj\Debug\Example6.DumpTCP.pdb
